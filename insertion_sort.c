@@ -14,6 +14,7 @@ int main()
   //cin >> numbers;
   
   cout<< "v.size-----\t" << v.size() <<endl;
+  
   int temp;
   int exchange;
   for(int i=1; i<=5; i++){
